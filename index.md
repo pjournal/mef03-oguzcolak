@@ -11,4 +11,4 @@
 
 ## Group PJ | Kar'R'sızlar
 
-For group project journal please visit the [Kar'R'sızlar](https://pjournal.github.io/mef03g-Kar-R-sizlar/) page.
+For group progress journal please visit the [Kar'R'sızlar](https://pjournal.github.io/mef03g-Kar-R-sizlar/) page.
