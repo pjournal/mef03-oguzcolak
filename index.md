@@ -20,4 +20,4 @@ For group progress journal, please visit the [Kar'R'sızlar](https://pjournal.gi
 ### Contact Information
 
 * Student ID: 311902034
-* Email: colako@mef.edu.tr [Click to send an email](mailto:colako@mef.edu.tr)
+* Email: [Click to send an email](mailto:colako@mef.edu.tr)
