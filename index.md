@@ -16,3 +16,8 @@
 ## Group PJ | Kar'R'sızlar
 
 For group progress journal, please visit the [Kar'R'sızlar](https://pjournal.github.io/mef03g-Kar-R-sizlar/) page.
+
+### Contact Information
+
+* Student ID: 311902034
+* Email: colako@mef.edu.tr [Click to send an email](mailto:colako@mef.edu.tr)
