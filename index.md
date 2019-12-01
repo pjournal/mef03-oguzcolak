@@ -14,7 +14,7 @@
 
 ## Week 6
 
-[Join Assignment - Lab](https://pjournal.github.io/mef03-oguzcolak/week6-lab-join-assignment.html)
+[ATP - Join Assignment](https://pjournal.github.io/mef03-oguzcolak/week6-lab-join-assignment.html)
 
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
