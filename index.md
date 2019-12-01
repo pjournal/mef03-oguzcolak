@@ -1,5 +1,8 @@
 #### Hello and welcome to my progress journal :) | Oğuz Çolak
 
+-----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
+
 ## Week 1
 
 [RMarkdown Homework](https://pjournal.github.io/mef03-oguzcolak/oguz-colak-rmarkdown-homework.html)
@@ -14,11 +17,13 @@
 [Join Assignment - Lab](https://pjournal.github.io/mef03-oguzcolak/week6-lab-join-assignment.html)
 
 -----------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------
 
 ## Group PJ | Kar'R'sızlar
 
 For group progress journal, please visit the [Kar'R'sızlar](https://pjournal.github.io/mef03g-Kar-R-sizlar/) page.
 
+-----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 
 ## Contact Information
