@@ -16,6 +16,10 @@
 
 [ATP - Join Assignment](https://pjournal.github.io/mef03-oguzcolak/week6-lab-join-assignment.html)
 
+## RDS File for Final Part 3 Data
+
+[Click](https://pjournal.github.io/mef03-oguzcolak/Final_Part3_Data.rds) to download.
+
 -----------------------------------------------------------------------------------------------
 -----------------------------------------------------------------------------------------------
 
