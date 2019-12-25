@@ -1,5 +1,7 @@
 #### Hello, this repository contains my progress journal for BDA503 Data Analytics Essentials course. 
 
+![oguz-colak-icon](https://user-images.githubusercontent.com/55504780/71450332-2c862d00-2771-11ea-893d-a902c0bb1831.png)
+
 ## Contact Information
 
 * Student ID: 311902034
